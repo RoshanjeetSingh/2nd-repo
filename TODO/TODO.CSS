@@ -1,0 +1,38 @@
+*{
+    color: rgb(51, 139, 155);
+
+    background-color: rgb(76, 75, 77);
+}
+.i-name-css{
+    color: #fff;
+    background-color: rgba(93, 110, 108, 0.514);
+    box-shadow: 2px;
+    border: none;
+    border-radius: 3px;
+}
+.add-button{
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+    background-color: rgba(88, 131, 131, 0.534);
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.adding-todos-css{
+    display: grid;
+    grid-template-columns:37vw 37vw 18vw;
+    column-gap: 10px;
+    row-gap: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+    /* align-items: stretch; */
+    color: rgb(186, 214, 188);
+}
+.delete-elem-css{
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+    background-color: rgba(88, 131, 131, 0.534);
+    cursor: pointer;
+    text-transform: uppercase;
+}
